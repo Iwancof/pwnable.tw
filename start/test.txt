@@ -1,0 +1,16 @@
+
+
+
+
+    <- 0x1234
+0x1234
+exit
+AAAA
+AAAA
+AAAA
+
+esp <- esp
+
+AAAA
+AAAA
+AAAA <- esp

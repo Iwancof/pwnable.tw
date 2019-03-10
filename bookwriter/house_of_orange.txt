@@ -1,0 +1,9 @@
+House of orange:
+https://1ce0ear.github.io/2017/11/26/study-house-of-orange/
+http://4ngelboy.blogspot.com/2016/10/hitcon-ctf-qual-2016-house-of-orange.html
+https://dangokyo.me/2018/01/01/advanced-heap-exploitation-house-of-mind-house-of-orange-2/
+https://github.com/shellphish/how2heap/blob/master/glibc_2.25/house_of_orange.c
+http://tacxingxing.com/2018/01/10/house-of-orange/
+https://jkrshnmenon.wordpress.com/2017/08/30/hitcon-2016-house-of-orange-writeup/
+https://www.lazenca.net/display/TEC/House+of+Orange
+https://www.lazenca.net/pages/viewpage.action?pageId=7536648
