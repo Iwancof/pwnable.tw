@@ -1,0 +1,11 @@
+- in add_page():
+for ( i = 0; ; ++i )
+  {
+    if ( i > 8 )
+      return puts("You can't add new page anymore!");
+    if ( !page_list[i] )
+      break;
+  }         bug => we can add 9 pages to override size of first page => heap overflow
+
+- page size is updated after edit page content
+- 
